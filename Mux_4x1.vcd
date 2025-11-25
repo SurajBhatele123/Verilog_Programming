@@ -1,0 +1,37 @@
+$date
+	Sat Nov 22 20:16:22 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module Mux_4x1_tb $end
+$var wire 1 ! y $end
+$var reg 1 " clk $end
+$var reg 2 # s [1:0] $end
+$var reg 4 $ x [3:0] $end
+$scope module dut $end
+$var wire 4 % I [3:0] $end
+$var wire 2 & S [1:0] $end
+$var reg 1 ! Y $end
+$upscope $end
+$scope begin $ivl_for_loop0 $end
+$var integer 32 ' n [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#128000
+$dumpvars
+b1000000 '
+b11 &
+b1111 %
+b1111 $
+b11 #
+1"
+1!
+$end

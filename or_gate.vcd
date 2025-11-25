@@ -1,0 +1,46 @@
+$date
+	Sun Nov 23 16:58:14 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module or_gate_tb $end
+$var wire 1 ! y $end
+$var reg 1 " a $end
+$var reg 1 # b $end
+$scope module dut $end
+$var wire 1 " a $end
+$var wire 1 # b $end
+$var wire 1 ! y $end
+$upscope $end
+$scope begin $ivl_for_loop0 $end
+$var integer 32 $ i [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b0 $
+0#
+0"
+0!
+$end
+#5000
+1!
+1#
+b1 $
+#10000
+1"
+0#
+b10 $
+#15000
+1#
+b11 $
+#20000
+b100 $
