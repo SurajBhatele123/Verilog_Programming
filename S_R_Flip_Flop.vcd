@@ -1,0 +1,111 @@
+$date
+	Sat Nov 29 00:43:00 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module S_R_Flip_Flop_tb $end
+$var wire 1 ! q $end
+$var reg 1 " R $end
+$var reg 1 # S $end
+$var reg 1 $ clk $end
+$var reg 1 % rst $end
+$scope module dut $end
+$var wire 1 " R $end
+$var wire 1 # S $end
+$var wire 1 $ clk $end
+$var wire 1 & rst $end
+$var reg 1 ! q $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+z&
+x%
+0$
+x#
+x"
+x!
+$end
+#5
+1$
+#10
+0$
+1%
+#15
+1$
+#20
+0$
+0%
+#25
+1$
+#30
+0$
+0"
+0#
+#35
+1$
+#40
+0$
+1"
+#45
+0!
+1$
+#50
+0$
+0"
+1#
+#55
+1!
+1$
+#60
+0$
+1"
+#65
+z!
+1$
+#70
+0$
+#75
+1$
+#80
+0$
+#85
+1$
+#90
+0$
+#95
+1$
+#100
+0$
+#105
+1$
+#110
+0$
+#115
+1$
+#120
+0$
+#125
+1$
+#130
+0$
+#135
+1$
+#140
+0$
+#145
+1$
+#150
+0$
+#155
+1$
+#160
+0$
